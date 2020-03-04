@@ -16,10 +16,9 @@ You can install the released version of mysimplecompendiuml6 from [CRAN](https:/
 install.packages("mysimplecompendiuml6")
 ```
 
-## Example
+## Code of conduct.
 
-This is a basic example which shows you how to solve a common problem:
-
+Please see the code of conduct [here](https://github.com/rcctodd/DATA-598-WI20-week-7/blob/master/CODE_OF_CONDUCT.md)
 ``` r
 library(mysimplecompendiuml6)
 ## basic example code
