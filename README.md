@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of mysimplecompendiuml6 is to ...
+The goal of mysimplecompendiuml6 is to explore CI.
 
 ## Installation
 
