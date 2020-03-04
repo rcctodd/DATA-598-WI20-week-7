@@ -3,6 +3,7 @@
 
 <!-- badges: start -->
 [![R build status](https://github.com/rcctodd/mysimplecompendiuml6/workflows/R-CMD-check/badge.svg)](https://github.com/rcctodd/mysimplecompendiuml6/actions)
+[![Codecov test coverage](https://codecov.io/gh/rcctodd/mysimplecompendiuml6/branch/master/graph/badge.svg)](https://codecov.io/gh/rcctodd/mysimplecompendiuml6?branch=master)
 <!-- badges: end -->
 
 The goal of mysimplecompendiuml6 is to explore CI.
