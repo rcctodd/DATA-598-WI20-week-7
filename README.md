@@ -2,6 +2,7 @@
 # mysimplecompendiuml6
 
 <!-- badges: start -->
+[![R build status](https://github.com/rcctodd/mysimplecompendiuml6/workflows/R-CMD-check/badge.svg)](https://github.com/rcctodd/mysimplecompendiuml6/actions)
 <!-- badges: end -->
 
 The goal of mysimplecompendiuml6 is to ...
