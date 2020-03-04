@@ -12,3 +12,5 @@ LazyData: true
 Suggests: 
     testthat (>= 2.1.0)
 RoxygenNote: 7.0.2
+URL: https://github.com/rcctodd/mysimplecompendiuml6
+BugReports: https://github.com/rcctodd/mysimplecompendiuml6/issues
