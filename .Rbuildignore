@@ -5,3 +5,4 @@
 ^\.github/workflows/R-CMD-check\.yaml$
 ^codecov\.yml$
 ^\.github/workflows/pr-commands\.yaml$
+^Dockerfile$

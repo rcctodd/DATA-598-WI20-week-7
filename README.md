@@ -4,6 +4,7 @@
 <!-- badges: start -->
 [![R build status](https://github.com/rcctodd/mysimplecompendiuml6/workflows/R-CMD-check/badge.svg)](https://github.com/rcctodd/mysimplecompendiuml6/actions)
 [![Codecov test coverage](https://codecov.io/gh/rcctodd/mysimplecompendiuml6/branch/master/graph/badge.svg)](https://codecov.io/gh/rcctodd/mysimplecompendiuml6?branch=master)
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rcctodd/mysimplecompendiuml6/master?urlpath=rstudio)
 <!-- badges: end -->
 
 The goal of mysimplecompendiuml6 is to explore CI.
